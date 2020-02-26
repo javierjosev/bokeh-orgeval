@@ -1,0 +1,3 @@
+Pour activer il faut taper sur le terminal :
+
+bokeh server --show main.py
